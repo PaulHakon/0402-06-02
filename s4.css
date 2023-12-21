@@ -1,0 +1,14 @@
+body{
+    background-color: azure;
+    color: darkslateblue;
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer {
+    color: crimson;
+    text-align: justify;
+    background-color: gainsboro;
+    text-decoration-line: underline;
+    text-indent: 8ch;
+}
